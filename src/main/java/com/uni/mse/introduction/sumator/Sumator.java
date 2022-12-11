@@ -18,6 +18,7 @@ public class Sumator {
 
     /**
      * Sums the two floats.
+     *
      * @param firstNumber first number
      * @param secondNumber second number
      * @return the sum.
