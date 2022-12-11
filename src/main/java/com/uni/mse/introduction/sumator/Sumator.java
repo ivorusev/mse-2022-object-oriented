@@ -6,7 +6,8 @@ package com.uni.mse.introduction.sumator;
 public class Sumator {
 
     /**
-     * Sums two integer numbers
+     * Sums two integer numbers.
+     *
      * @param firstNumber the fist number
      * @param secondNumber the second number
      * @return the result
