@@ -8,8 +8,8 @@ public class Sumator {
     /**
      * Sums two integer numbers.
      *
-     * @param firstNumber the fist number
-     * @param secondNumber the second number
+     * @param firstNumber the fist number.
+     * @param secondNumber the second number.
      * @return the result
      */
     public static int sum(int firstNumber, int secondNumber) {
@@ -19,15 +19,12 @@ public class Sumator {
     /**
      * Sums the two floats.
      *
-     * @param firstNumber first number
-     * @param secondNumber second number
+     * @param firstNumber first number.
+     * @param secondNumber second number.
      * @return the sum.
      */
     public static float sum(float firstNumber, float secondNumber) {
         return firstNumber + secondNumber;
     }
 
-    public static long sum(long firstNumber, long secondNumber) {
-        return firstNumber + secondNumber;
-    }
 }
