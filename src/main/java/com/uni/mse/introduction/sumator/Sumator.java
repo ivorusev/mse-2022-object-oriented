@@ -26,4 +26,8 @@ public class Sumator {
     public static float sum(float firstNumber, float secondNumber) {
         return firstNumber + secondNumber;
     }
+
+    public static long sum(long firstNumber, long secondNumber) {
+        return firstNumber + secondNumber;
+    }
 }
